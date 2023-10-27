@@ -2,7 +2,7 @@
 ## Programming Language
 > JAVA (main)    
 > Python  
-> C
+> C  
 > JavaScript
 ## DataBase
 > MYSQL
@@ -17,7 +17,7 @@
 > SpringBoot  
 > Flask.py
 ## IDE
-> IntelliJ
+> IntelliJ  
 > Eclipse
 ## OS
 > Linux(Ubuntu, Debian)
