@@ -20,6 +20,6 @@
 > IntelliJ  
 > Eclipse
 ## OS
-> Linux(Ubuntu, Debian)
+> Linux(Ubuntu, CentOS)
 
 [//]: # (![dealim's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=dealim&show_icons=true&theme=radical&#41;)
