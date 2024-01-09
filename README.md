@@ -6,6 +6,7 @@
 > JavaScript
 ## DataBase
 > MYSQL
+> ORACLE
 ## DevOps
 > Git  
 > Docker  
@@ -13,8 +14,10 @@
 > Nginx
 ## Cloud
 > Naver Cloud Platform
+> Google Colud Platform
 ## Framework
-> SpringBoot  
+> SpringBoot
+> Spring + Servlet + Jsp + Mybatis
 > Flask.py
 ## IDE
 > IntelliJ  
