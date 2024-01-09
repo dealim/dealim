@@ -13,11 +13,11 @@
 > Jenkins  
 > Nginx
 ## Cloud
-> Naver Cloud Platform
+> Naver Cloud Platform  
 > Google Colud Platform
 ## Framework
-> SpringBoot
-> Spring + Servlet + Jsp + Mybatis
+> SpringBoot  
+> Spring + Servlet + Jsp + Mybatis  
 > Flask.py
 ## IDE
 > IntelliJ  
