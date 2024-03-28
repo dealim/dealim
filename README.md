@@ -16,10 +16,13 @@
 > Naver Cloud Platform  
 > Google Colud Platform
 ## Framework
-> Spring/SpringBoot + Servlet/Jsp + Mybatis   
-> Flask.py  
-> React  
+> Spring/SpringBoot
+> Servlet/Jsp
+> JPA
+> Mybatis
+> Flask.py
 > JQuery  
+> React  
 ## IDE
 > IntelliJ  
 > Eclipse
