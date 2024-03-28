@@ -18,9 +18,9 @@
 ## Framework
 > SpringBoot  
 > Spring + Servlet/Jsp + Mybatis  
-> Flask.py
-> React
-> JQuery
+> Flask.py  
+> React  
+> JQuery  
 ## IDE
 > IntelliJ  
 > Eclipse
