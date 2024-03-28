@@ -16,8 +16,7 @@
 > Naver Cloud Platform  
 > Google Colud Platform
 ## Framework
-> SpringBoot  
-> Spring + Servlet/Jsp + Mybatis  
+> Spring/SpringBoot + Servlet/Jsp + Mybatis   
 > Flask.py  
 > React  
 > JQuery  
